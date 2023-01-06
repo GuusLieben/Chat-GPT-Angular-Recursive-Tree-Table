@@ -6,6 +6,8 @@ The tree data model includes a `name` and `description` field, and also includes
 
 **This README was also written by ChatGPT.**
 
+![screenshot](screenshot.png)
+
 ## Running the App
 
 To run the app, follow these steps:
